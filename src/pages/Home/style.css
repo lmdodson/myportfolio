@@ -1,0 +1,24 @@
+body {
+  height: 100vh;
+}
+
+#app-wrapper {
+  /* background: black; */
+  background: url('../../assets/images/web-4760285_1920.jpg');
+  background-repeat: repeat-y;
+   background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  height: 100vh !important;
+  margin: 0;
+  padding-top: 6em !important;
+
+}
+
+#content {
+  margin-top: 20%;
+  /* background: transparent; */
+  /* padding: 20px; */
+  position: relative;
+}
+

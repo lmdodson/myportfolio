@@ -1,0 +1,18 @@
+.jumbotron {
+background-color: rgb(0,0,0,.8) !important;
+
+color: white !important;
+
+padding-top: 1.5em !important;
+padding-bottom: 1em !important;
+margin: 0em auto;
+}
+
+
+#name {
+  margin: 0 auto 10px;
+  text-align: center;
+  border-bottom: 1px solid white;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 8em;
+}

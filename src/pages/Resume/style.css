@@ -1,0 +1,24 @@
+#resumeContainer{
+  background: url('../../assets/images/web-4760285_1920.jpg');
+  padding-top: 2em;
+  padding-bottom: 2em;
+  height: 100vh;
+  background-attachment: local;
+  justify-content: center;
+  }
+
+  #tabsHeader{
+    margin-top: 4em;
+    background: white;
+    color: blueviolet;
+  }
+
+  #resumeHeader{
+    margin: auto;
+    padding: 1em;
+  }
+
+  #resumeContainerTab1{
+    padding-top: 0 !important;
+    background: white;
+  }
