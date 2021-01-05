@@ -1,8 +1,8 @@
 #cardContainer{
   justify-content: space-around;
   margin-top: 2em;
-  margin-left: 6em;
-  margin-right: 6em;
+  margin-left: 3em;
+  margin-right: 3em;
 }
 
 #portfolioContainer{
@@ -10,5 +10,6 @@ background: url('../../assets/images/abstract-1022206_1920.jpg');
 padding-top: 1em;
 padding-bottom: 2em;
 height: 100vh;
-background-attachment: local;
+background-attachment:scroll;
+overflow-y: scroll;
 }

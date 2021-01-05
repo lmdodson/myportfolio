@@ -11,17 +11,17 @@ const PortfolioContainer = () => {
   return (
     <div id='portfolioContainer'>
       <Row id='cardContainer'>
-        <Col xs="4" sm="3">
+        <Col xs="auto" sm="3">
           
           <Ascension />
         </Col>
-        <Col xs="4" sm="3">
+        <Col xs="auto" sm="3">
           <TGR />
         </Col>
-        <Col xs="4" sm="3">
+        <Col xs="auto" sm="3">
           <Clicky />
         </Col>
-        <Col xs="4" sm="3">
+        <Col xs="auto" sm="3">
           <Burgerized />
         </Col>
       </Row>
