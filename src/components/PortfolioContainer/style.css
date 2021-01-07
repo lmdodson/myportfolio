@@ -1,5 +1,5 @@
 #cardContainer{
-  justify-content: space-around;
+  justify-content: space-around !important;
   margin-top: 2em;
   margin-left: 3em;
   margin-right: 3em;
