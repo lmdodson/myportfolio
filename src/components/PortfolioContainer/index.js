@@ -1,5 +1,5 @@
 import React from 'react';
-import { Row, Col, CardGroup, CardDeck } from 'reactstrap';
+import {CardDeck } from 'reactstrap';
 
 import Ascension from '../PortfolioCards/Ascension/index';
 import TGR from '../PortfolioCards/TGR/index';
