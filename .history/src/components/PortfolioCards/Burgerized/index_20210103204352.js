@@ -6,7 +6,7 @@ import "./style.css";
 const Burgerized = () => {
   return (
     <Card>
-    <CardImg top width="100%" src={require('../../../assets/images/burger.png')} alt="cartoon cheeseburger"/>
+    <CardImg top width="100%" src={require('../../../assets/images/burger.png')} alt="Card image cap"/>
     <CardBody className='cardContainer'>
       <CardTitle tag="h5">Burgerized</CardTitle>
       <CardSubtitle tag="h6" className="mb-2 text-muted">Web-based Ordering App</CardSubtitle>

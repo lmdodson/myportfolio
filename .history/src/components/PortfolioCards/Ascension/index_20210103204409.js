@@ -7,7 +7,7 @@ import "./style.css";
 const Ascension = () => {
   return (
     <Card>
-    <CardImg top width="100%" className='cardImage' src={require('../../../assets/images/Cooper-Solo.png')} alt="Ascension character Cooper, overheated metal with wings"/>
+    <CardImg top width="100%" className='cardImage' src={require('../../../assets/images/Cooper-Solo.png')} alt="Card image cap"/>
     <CardBody className='cardContainer'>
       <CardTitle tag="h5">Ascension</CardTitle>
       <CardSubtitle tag="h6" className="mb-2 text-muted">Mobile game for iOS</CardSubtitle>

@@ -7,7 +7,7 @@ import "./style.css";
 const TGR = () => {
   return (
     <Card>
-    <CardImg top width="100%" src={require('../../../assets/images/galaxy-4291517_1920.jpg')} alt="blue portal in front of bench"/>
+    <CardImg top width="100%" src={require('../../../assets/images/galaxy-4291517_1920.jpg')} alt="Card image cap"/>
     <CardBody className='cardContainer'>
       <CardTitle tag="h5">The Gate Room</CardTitle>
       <CardSubtitle tag="h6" className="mb-2 text-muted">Web-based Interactive Story App</CardSubtitle>
