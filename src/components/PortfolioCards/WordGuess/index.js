@@ -12,7 +12,7 @@ const WordGuess = () => {
       <CardTitle tag="h5">Word Guess</CardTitle>
       <CardSubtitle tag="h6" className="mb-2 text-muted">Front-End Letter Guessing Game</CardSubtitle>
       <CardText>A holiday take on a classic game, Word Guess was built with HTML, CSS, and JavaScript.</CardText>
-      <CardLink href="#" target="_blank">Play Word Guess</CardLink>
+      <CardLink href="https://lmdodson.github.io/Word-Guess-Game/" target="_blank">Play Word Guess</CardLink>
       <CardLink href="https://github.com/lmdodson/Word-Guess-Game" target="_blank">Github Project</CardLink>
     </CardBody>
   </Card>
