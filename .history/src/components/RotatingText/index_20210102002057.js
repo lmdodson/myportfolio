@@ -5,7 +5,7 @@ import './style.css';
 const RotatingText = () => {
 
   return( 
-    <ReactRotatingText items={['Storyteller.', 'Web Developer.', 'Mother.', 'Writer.', 'Game Developer.', 'Dodge Juggle Protect Champion.', 'Gamer.', 'Creator.' ]} />
+    <ReactRotatingText items={['Storyteller.', 'Web Developer.', 'Writer.', 'Game Developer.', 'Dodge Juggle Protect Champion.', 'Creator.' ]} />
   )
 }
 
