@@ -1,15 +1,15 @@
 #cardContainer{
+  justify-content: space-around !important;
   margin-top: 2em;
   margin-left: 5em;
   margin-right: 5em;
 }
 
 #portfolioContainer{
-background: url('../../assets/images/fractal-2573303.jpg');  
+background: url('../../assets/images/abstract-1022206_1920.jpg');  
 padding-top: 1em;
 padding-bottom: 2em;
 height: 100vh;
-
 background-attachment:scroll;
 overflow-y: scroll;
 }

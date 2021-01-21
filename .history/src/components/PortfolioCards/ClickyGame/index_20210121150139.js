@@ -6,8 +6,8 @@ import {
 import "./style.css";
 const Clicky = () => {
   return (
-    <Card className='portfolioCard'>
-    <CardImg top width="100%" src={require('../../../assets/images/pug-jedi.jpg')} alt="pug dressed like jedi"/>
+    <Card>
+    <CardImg top width="50%" src={require('../../../assets/images/pug-jedi.jpg')} alt="pug dressed like jedi"/>
     <CardBody className='cardContainer'>
       <CardTitle tag="h5">Clicky Game</CardTitle>
       <CardSubtitle tag="h6" className="mb-2 text-muted">Web-based Memory Game</CardSubtitle>
