@@ -6,9 +6,9 @@ import {
 import "./style.css";
 const TGR = () => {
   return (
-    <Card>
+    <Card className='newCard'>
     <CardImg top width="100%" src={require('../../../assets/images/galaxy-4291517_1920.jpg')} alt="blue portal in front of bench"/>
-    <CardBody className='cardContainer'>
+    <CardBody className='cardContainerEach'>
       <CardTitle tag="h5">The Gate Room</CardTitle>
       <CardSubtitle tag="h6" className="mb-2 text-muted">Web-based Interactive Story App</CardSubtitle>
       <CardText>The Gate Room is a web application designed to host multiple interactive stories to delight and entertain.</CardText>

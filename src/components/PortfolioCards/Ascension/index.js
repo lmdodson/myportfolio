@@ -1,14 +1,14 @@
 import React from 'react';
 import {
   Card, CardImg, CardText, CardBody,
-  CardTitle, CardSubtitle, CardLink
+  CardTitle, CardSubtitle, CardLink, Col
 } from 'reactstrap';
 import "./style.css";
 const Ascension = () => {
   return (
-    <Card>
-    <CardImg top width="100%" className='cardImage' src={require('../../../assets/images/Cooper-Solo.png')} alt="Ascension character Cooper, overheated metal with wings"/>
-    <CardBody className='cardContainer'>
+    <Card className='newCard'>
+    <CardImg top width="100%" className='cardImage' src={require('../../../assets/images/Ascension_Icon_Square.png')} alt="Ascension character Cooper, overheated metal with wings"/>
+    <CardBody className='cardContainerEach'>
       <CardTitle tag="h5">Ascension</CardTitle>
       <CardSubtitle tag="h6" className="mb-2 text-muted">Mobile game for iOS</CardSubtitle>
       <CardText>Ascension is a platform jumper designed to develop quick decision-making and hand-eye coordination. It was created in Unity with C#.</CardText>

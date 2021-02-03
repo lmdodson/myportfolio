@@ -6,9 +6,9 @@ import {
 import "./style.css";
 const WordGuess = () => {
   return (
-    <Card>
+    <Card className='newCard'>
     <CardImg top width="100%" src={require('../../../assets/images/christmas-bauble-15738_1920.jpg')} alt="blue portal in front of bench"/>
-    <CardBody className='cardContainer'>
+    <CardBody className='cardContainerEach'>
       <CardTitle tag="h5">Word Guess</CardTitle>
       <CardSubtitle tag="h6" className="mb-2 text-muted">Front-End Letter Guessing Game</CardSubtitle>
       <CardText>A holiday take on a classic game, Word Guess was built with HTML, CSS, and JavaScript.</CardText>
